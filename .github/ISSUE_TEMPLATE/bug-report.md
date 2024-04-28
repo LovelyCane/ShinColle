@@ -12,6 +12,7 @@ assignees: ''
 <!--
 详细地描述 bug，让大家都能理解
 Describe the bug in detail so that everyone can understand it
+在上报issue时请注意我们**原则上并不会修复与其他mod的问题**，请尝试在仅此mod的环境下测试
 -->
 
 ### 📷 复现步骤(Steps to Reproduce)
