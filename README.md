@@ -1,13 +1,10 @@
 > [!NOTE]
-> 在没有严重bug的情况下，本仓库原则上是不会更新任何东西的，如果有任何的问题，请在[mcmod](https://www.mcmod.cn/class/412.html)或者本仓库的Issues中进行反馈
+> This repository is archived, please go to the fork repository for support!
 > 
-> （在mcmod中反馈时记得在前面添加 @[misaka10843](https://center.mcmod.cn/289697/)，这样我会在浏览mod页面时第一时间搜索到）
->
-> 使用此mod时请不要使用任何可以搬运实体的mod搬运舰娘，因为可能会导致舰娘AI出现问题（真的不好查到底是哪里的问题）
->
-> 在上报issue时请注意我们**原则上并不会修复与其他mod的问题**，请尝试在仅此mod的环境下测试
->
-> 因为当前1.12.2已经属于古老版本，所以只要不是**严重影响游戏体验**的问题均不受理，感谢理解
+> 此仓库已经归档，请前往下游分支仓库寻找支持！
+> 
+> [yor42/ShinColle](https://github.com/yor42/ShinColle)
+
 
 # Shin Colle
 
